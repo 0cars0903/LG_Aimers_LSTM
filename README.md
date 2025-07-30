@@ -9,9 +9,8 @@
 ## 해커톤 대회 주제 설명
  - 대회 주제: 특정 온라인 쇼핑몰의 제품별 판매 데이터를 분석하고, 약 3주간의 판매량을 예측할 수 있는 AI 모델 개발  
  - 대회 성과: 본 프로젝트는 LG AI Research에서 주최한 해커톤에서 **최우수상(2등)**을 수상하였습니다.  
- - 대시보드 구축(Looker Studio): [제품 분류별 예측 성능 파악을 위한 대시보드 : 구현 예정]()
+ - 대시보드 구축(Looker Studio): [제품 분류별 예측 성능 파악을 위한 대시보드 : 구현 예정]
 ------------------------
-- [블로그 포스팅(Notion)](https://www.notion.so/0cars/LG-Aimers-8004ecd18da442929d438e4c6f3aa84f?pvs=4)
 ------------------------
 ![image](https://github.com/user-attachments/assets/c77acb68-fbf8-4803-bd0a-1222afdcfde2)
 
